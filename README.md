@@ -20,4 +20,9 @@ This repository contains the laboratory assignments and implementations for the 
 │   ├── Task2.ipynb          # Task 2 Implementation (Dijkstra & A*)
 │   ├── Coordinates.csv      # Star 3D coordinates
 │   └── distances.csv        # Distance matrix
+├── CSPAssignment/
+│   ├── Solve.py             # Python Implementation for CSP
+│   ├── puzzles.txt          # Puzzle Inputs
+│   ├── solutions.txt        # Output Solutions
+│   └── Technical_Report.pdf # Project Technical Report
 └── README.md
