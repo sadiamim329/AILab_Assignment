@@ -5,12 +5,12 @@ This repository contains the laboratory assignments and implementations for the 
 ---
 
 ## 📌 Features & Algorithms
-CSP Problem Solving: Implementation of Constraint Satisfaction Problem (CSP) using Solve.py, with puzzle inputs and generated solutions.
-Uninformed Search: Implementation of BFS and DFS for graph traversal and state-space exploration in Task1.ipynb.
-Informed Search: Implementation of Dijkstra and A* Search for shortest-path finding in Task2.ipynb.
-3D Star Pathfinding: Uses Coordinates.csv and distances.csv to calculate and visualize paths between 3D points.
-Graph & State-Space Generation: Generates and explores graph/state-space structures for solving search and CSP problems.
-Technical Reporting: Documents the implementations, algorithms, results, and analysis in Technical_Report.pdf.
+🔹CSP Problem Solving: Implementation of Constraint Satisfaction Problem (CSP) using     Solve.py, with puzzle inputs and generated solutions.
+🔹Uninformed Search: Implementation of BFS and DFS for graph traversal and state-space   exploration in Task1.ipynb.
+🔹Informed Search: Implementation of Dijkstra and A* Search for shortest-path finding    in Task2.ipynb.
+🔹3D Star Pathfinding: Uses Coordinates.csv and distances.csv to calculate and           visualize paths between 3D points.
+🔹Graph & State-Space Generation: Generates and explores graph/state-space structures    for solving search and CSP problems.
+🔹Technical Reporting: Documents the implementations, algorithms, results, and           analysis in Technical_Report.pdf.
 
 ---
 
